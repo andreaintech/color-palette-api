@@ -1,4 +1,4 @@
-# Color Palette Api
+# Color Palette API
 
 This is the color palette API for the [Frontend Masters React Native v2 Course](https://github.com/adasilvapdev/React-Native-FrontEnd-Masters-Practices).
 
