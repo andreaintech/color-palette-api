@@ -108,3 +108,7 @@ await fetch("http://localhost:3000/palettes", {
   })
 });
 ```
+
+
+
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
